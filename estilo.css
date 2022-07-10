@@ -31,7 +31,7 @@ p{
 }
 
 .btn{
-    width: 500px;
+    width: 80%;
     height: 60px;
     border: solid 5px rgb(0, 0, 0);
     background: rgb(255, 229, 35);
@@ -63,7 +63,7 @@ nav {
 
 nav a {
     color: #fff;
-    margin: auto 20px auto 40px;
+    margin: auto 20% auto 40%;
     text-decoration: none;
     font-weight: bold;
 }
