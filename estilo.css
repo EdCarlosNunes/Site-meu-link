@@ -47,7 +47,7 @@ p{
     height: 60px;
     border: solid 1px rgba(255, 255, 255, 0);
         background: rgba(255, 255, 255, 0.263);
-    font-size: 200%;
+    font-size: 150%;
     font-weight: bold;
     margin-top: -50px;
     margin-bottom: -50px;
@@ -59,7 +59,7 @@ p{
         height: 60px;
         border: solid 1px rgba(255, 255, 255, 0);
             background: rgba(255, 255, 255, 0.263);
-        font-size: 200%;
+        font-size: 150%;
         font-weight: bold;
         margin-top: -50px;
         margin-bottom: -50px;
@@ -71,7 +71,19 @@ p{
         height: 60px;
         border: solid 1px rgba(255, 255, 255, 0);
             background: rgba(255, 255, 255, 0.263);
-        font-size: 200%;
+        font-size: 150%;
+        font-weight: bold;
+        margin-top: -50px;
+        margin-bottom: -50px;
+        border-radius: 10px;
+    }
+
+    .btn4 {
+        width: 80%;
+        height: 60px;
+        border: solid 1px rgba(255, 255, 255, 0);
+            background: rgba(255, 255, 255, 0.263);
+        font-size: 150%;
         font-weight: bold;
         margin-top: -50px;
         margin-bottom: -50px;
@@ -89,6 +101,11 @@ p{
     }
     
     .btn3:hover {
+        background-color: #003cff;
+        transition: 0.5s;
+    }
+
+    .btn4:hover {
         background-color: #003cff;
         transition: 0.5s;
     }
